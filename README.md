@@ -4,10 +4,6 @@
 
 
 ## <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="6%" /> About me
-## <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="6%" /> About me
-## <img src="https://media.tenor.com/h0bLskVazQ0AAAAC/cute-girl-coding.gif" width="6%" /> About me
-## <img src="https://media.tenor.com/cCS-pq4rPMUAAAAC/programming-anime.gif" /> About me
-## <img src="https://media.tenor.com/h0bLskVazQ0AAAAC/cute-girl-coding.gif" width="6%" /> About me
 
 
 
