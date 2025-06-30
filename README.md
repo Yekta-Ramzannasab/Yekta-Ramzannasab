@@ -8,6 +8,12 @@
 -->
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
+Hi there!
+I'm currently pursuing my B.Sc. in Computer Science at Shahid Beheshti University, Tehran. 
+
+Strive to continuously improve, collaborate, and grow as a developer, with a clear mission: to build meaningful, user-centered, and scalable technologies that can empower people and change the world for the better.  
+Let's code and have FUN! 🚀
+
 
 
 
