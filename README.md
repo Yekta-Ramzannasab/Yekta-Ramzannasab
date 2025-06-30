@@ -1,6 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcom%20to%20My%20%20GitHub&textBg=false&descAlign=82&descAlignY=84&fontAlignY=50&fontAlign=50&animation=twinkling)
-
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=E8D7F7&random=true&width=435&lines=+you+must+keep+moving.%E2%80%9D+;%E2%80%9CLife+is+like+riding+a+bicycle.+;To+keep+your+balance%2C+" alt="Typing SVG" /></a>
+</div>
 <div align= "center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
+
 
 <!--
 ## <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="6%" /> About me
